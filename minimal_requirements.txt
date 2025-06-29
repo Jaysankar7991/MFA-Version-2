@@ -1,0 +1,5 @@
+# MFA-Version-2 - Minimal Working Requirements
+# These packages install cleanly on Python 3.12
+
+streamlit>=1.28.0
+# That's it! Everything else uses Python built-ins

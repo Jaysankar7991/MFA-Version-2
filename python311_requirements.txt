@@ -1,0 +1,10 @@
+# MFA-Version-2 - Enhanced Requirements (Python 3.11 only)
+# Use this ONLY if you create a Python 3.11 environment
+
+streamlit>=1.28.0
+yfinance>=0.2.28
+pandas>=2.0.0
+requests>=2.31.0
+
+# Optional: for advanced charts (if needed)
+plotly>=5.17.0
